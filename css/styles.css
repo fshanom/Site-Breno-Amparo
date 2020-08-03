@@ -487,6 +487,10 @@ pre {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
     max-width: 1140px; } }
 
+.textallblack{
+  color: black;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
